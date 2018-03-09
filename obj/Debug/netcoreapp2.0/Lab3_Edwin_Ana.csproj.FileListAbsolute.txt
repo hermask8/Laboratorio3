@@ -1,0 +1,13 @@
+/Users/Guate/Projects/Lab3_Edwin_Ana/Lab3_Edwin_Ana/bin/Debug/netcoreapp2.0/Lab3_Edwin_Ana.deps.json
+/Users/Guate/Projects/Lab3_Edwin_Ana/Lab3_Edwin_Ana/bin/Debug/netcoreapp2.0/Lab3_Edwin_Ana.runtimeconfig.json
+/Users/Guate/Projects/Lab3_Edwin_Ana/Lab3_Edwin_Ana/bin/Debug/netcoreapp2.0/Lab3_Edwin_Ana.runtimeconfig.dev.json
+/Users/Guate/Projects/Lab3_Edwin_Ana/Lab3_Edwin_Ana/bin/Debug/netcoreapp2.0/Lab3_Edwin_Ana.dll
+/Users/Guate/Projects/Lab3_Edwin_Ana/Lab3_Edwin_Ana/bin/Debug/netcoreapp2.0/Lab3_Edwin_Ana.pdb
+/Users/Guate/Projects/Lab3_Edwin_Ana/Lab3_Edwin_Ana/obj/Debug/netcoreapp2.0/Lab3_Edwin_Ana.csprojResolveAssemblyReference.cache
+/Users/Guate/Projects/Lab3_Edwin_Ana/Lab3_Edwin_Ana/obj/Debug/netcoreapp2.0/Lab3_Edwin_Ana.csproj.CoreCompileInputs.cache
+/Users/Guate/Projects/Lab3_Edwin_Ana/Lab3_Edwin_Ana/obj/Debug/netcoreapp2.0/Lab3_Edwin_Ana.AssemblyInfoInputs.cache
+/Users/Guate/Projects/Lab3_Edwin_Ana/Lab3_Edwin_Ana/obj/Debug/netcoreapp2.0/Lab3_Edwin_Ana.AssemblyInfo.cs
+/Users/Guate/Projects/Lab3_Edwin_Ana/Lab3_Edwin_Ana/obj/Debug/netcoreapp2.0/Lab3_Edwin_Ana.dll
+/Users/Guate/Projects/Lab3_Edwin_Ana/Lab3_Edwin_Ana/obj/Debug/netcoreapp2.0/Lab3_Edwin_Ana.pdb
+/Users/Guate/Projects/Lab3_Edwin_Ana/Lab3_Edwin_Ana/bin/Debug/netcoreapp2.0/LibreriaArbol.dll
+/Users/Guate/Projects/Lab3_Edwin_Ana/Lab3_Edwin_Ana/bin/Debug/netcoreapp2.0/LibreriaArbol.pdb
