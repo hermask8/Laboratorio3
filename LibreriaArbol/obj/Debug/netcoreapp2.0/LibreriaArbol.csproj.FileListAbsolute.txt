@@ -1,0 +1,9 @@
+/Users/Guate/Projects/Lab3_Edwin_Ana/LibreriaArbol/obj/Debug/netcoreapp2.0/LibreriaArbol.csprojResolveAssemblyReference.cache
+/Users/Guate/Projects/Lab3_Edwin_Ana/LibreriaArbol/obj/Debug/netcoreapp2.0/LibreriaArbol.csproj.CoreCompileInputs.cache
+/Users/Guate/Projects/Lab3_Edwin_Ana/LibreriaArbol/obj/Debug/netcoreapp2.0/LibreriaArbol.AssemblyInfoInputs.cache
+/Users/Guate/Projects/Lab3_Edwin_Ana/LibreriaArbol/obj/Debug/netcoreapp2.0/LibreriaArbol.AssemblyInfo.cs
+/Users/Guate/Projects/Lab3_Edwin_Ana/LibreriaArbol/bin/Debug/netcoreapp2.0/LibreriaArbol.deps.json
+/Users/Guate/Projects/Lab3_Edwin_Ana/LibreriaArbol/bin/Debug/netcoreapp2.0/LibreriaArbol.dll
+/Users/Guate/Projects/Lab3_Edwin_Ana/LibreriaArbol/bin/Debug/netcoreapp2.0/LibreriaArbol.pdb
+/Users/Guate/Projects/Lab3_Edwin_Ana/LibreriaArbol/obj/Debug/netcoreapp2.0/LibreriaArbol.dll
+/Users/Guate/Projects/Lab3_Edwin_Ana/LibreriaArbol/obj/Debug/netcoreapp2.0/LibreriaArbol.pdb
